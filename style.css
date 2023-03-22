@@ -5,8 +5,13 @@ justify-content: space-around;}
 .cabecalho-imagem{width: 25%;}
 li {
     display: inline-block;
+    margin:0 16px ;
+    padding: px;
+    font-size: 24px;
+
 }
 h1{
     margin: 0 100px;
     padding:  250px 0;
+    font-size: 40px;
 }
