@@ -1,17 +1,26 @@
-header {background-color: rgb(163, 255, 127);
+* {
+    margin: 0;
+    padding: 0;
+}
+header {background-color: rgb(23, 2, 141);
 color: orangered;
 display: flex;
-justify-content: space-around;}
+justify-content: space-around;
+padding: 24px 0;}
 .cabecalho-imagem{width: 25%;}
 li {
     display: inline-block;
     margin:0 16px ;
-    padding: px;
+    padding: 24px;
     font-size: 24px;
 
 }
+.escola-imagem{width: 200%;} 
 h1{
     margin: 0 100px;
     padding:  250px 0;
     font-size: 40px;
+}
+.escola{
+    background-image: linear-gradient(rgb(2, 0, 124),rgb(24, 3, 143));
 }
