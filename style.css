@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
 }
+body {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
 header {background-color: rgb(23, 2, 141);
 color: orangered;
 display: flex;
@@ -15,12 +16,20 @@ li {
     font-size: 24px;
 
 }
-.escola-imagem{width: 200%;} 
+.escola-escola{width: 20%;}
+.escola-imagem{width: 10%;} 
 h1{
     margin: 0 100px;
     padding:  250px 0;
     font-size: 40px;
 }
 .escola{
-    background-image: linear-gradient(rgb(2, 0, 124),rgb(24, 3, 143));
+    background-image: linear-gradient(rgb(23, 2, 141),rgb(24, 3, 200));
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
 }
+.escola-conteudo
+{width: 50%;}
