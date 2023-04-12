@@ -33,3 +33,13 @@ h1{
 }
 .escola-conteudo
 {width: 50%;}
+.aluno-um {
+width: 15%;
+
+
+}
+.estudante-titulo {
+    text-align: center;
+    padding: 50px 0;
+    font-size: 30px;
+}
