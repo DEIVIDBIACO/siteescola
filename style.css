@@ -33,11 +33,18 @@ h1{
 }
 .escola-conteudo
 {width: 50%;}
+
+
 .aluno-um {
-width: 8%;
+width: 40%;
+height: 200px;
 
 
 
+}
+
+.estudante{
+    background-color:mediumblue;
 }
 .estudante-titulo {
     text-align: center;
@@ -46,9 +53,17 @@ width: 8%;
 
 } 
 .estudante-icone {
-width: 3%;
+width: 15%;
 
 }
 .estudante-div {
 text-align: center;
+}
+.estudante-todos{
+display: grid;
+grid-template-columns: 25% 25% 25% 25%;
+}
+footer {
+background-color: mediumblue;
+color: orangered;
 }
