@@ -3,14 +3,14 @@
     padding: 0;
 }
 body {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
-header {background-color: rgb(23, 2, 141);
-color: orangered;
+header {background-color: rgb(181, 172, 233);
+color: aliceblue;
 display: flex;
-justify-content: space-around;
+justify-content: center;
 padding: 24px 0;}
 .cabecalho-imagem{width: 25%;}
 li {
-    display: inline-block;
+    display: inline-block;1
     margin:0 16px ;
     padding: 24px;
     font-size: 24px;
@@ -24,12 +24,12 @@ h1{
     font-size: 40px;
 }
 .escola{
-    background-image: linear-gradient(rgb(23, 2, 141),rgb(24, 3, 200));
+    background-image: linear-gradient(rgb(187, 172, 240),rgb(190, 173, 250));
     color: aliceblue;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 20px 0;
+    padding: 22px 0;
 }
 .escola-conteudo
 {width: 50%;}
@@ -44,7 +44,7 @@ height: 200px;
 }
 
 .estudante{
-    background-color:mediumblue;
+    background-color:rgb(187, 180, 250);
 }
 .estudante-titulo {
     text-align: center;
@@ -64,6 +64,6 @@ display: grid;
 grid-template-columns: 25% 25% 25% 25%;
 }
 footer {
-background-color: mediumblue;
-color: orangered;
+background-color:rgb(187, 180, 250);
+color: rgb(240, 246, 248);
 }
